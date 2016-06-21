@@ -1,0 +1,23 @@
+{
+  "name": "ember-pusher",
+  "version": "0.1.0",
+  "main": [
+    "./ember-pusher.js",
+    "./ember-pusher.min.js",
+    "./ember-pusher.amd.js"
+  ],
+  "dependencies": {
+    "ember": ">=1.2",
+    "pusher": ">=2.2.4"
+  },
+  "homepage": "https://github.com/ivanvotti/ember-pusher-component",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "a6109f9531c0e8acca44b0d66741ff29517f8e2e"
+  },
+  "_source": "https://github.com/ivanvotti/ember-pusher-component.git",
+  "_target": "0.1.0",
+  "_originalSource": "ember-pusher"
+}

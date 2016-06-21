@@ -1,0 +1,13 @@
+{
+  "name": "ember-pusher",
+  "version": "0.1.0",
+  "main": [
+    "./ember-pusher.js",
+    "./ember-pusher.min.js",
+    "./ember-pusher.amd.js"
+  ],
+  "dependencies": {
+    "ember": ">=1.2",
+    "pusher": ">=2.2.4"
+  }
+}
